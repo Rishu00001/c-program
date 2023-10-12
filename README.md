@@ -1,4 +1,4 @@
 # c-program
 first git repository
 <br>
-author- Ritik Raj
+author- Ritik Raj Singh
